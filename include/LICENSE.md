@@ -3,21 +3,21 @@ There is no particular license on this repo. Files in this repo come from many s
 
 ## By Author
 ### Apple
-* IOKit headers: [Apple Public Source License](https://opensource.apple.com/license/apsl/)
+* IOKit: [Apple Public Source License](https://opensource.apple.com/license/apsl/)
 
 ### ashikase
-* IconSupport: ?
+* IconSupport: Unknown
 * libpackageinfo: [GNU GPL v3](https://github.com/ashikase/libpackageinfo/blob/master/LICENSE)
 * TechSupport: [GNU LGPL v3, Apache License 2](https://github.com/ashikase/TechSupport/blob/master/LICENSE)
 
 ### Cykey
-* MediaRemote, MobileGestalt headers: [GNU GPL v3](https://github.com/Cykey/ios-reversed-headers/blob/master/LICENSE.txt)
+* MediaRemote, MobileGestalt: [GNU GPL v3](https://github.com/Cykey/ios-reversed-headers/blob/master/LICENSE.txt)
 
 ### Dustin Howett
 * libprefs: [GNU LGPL v3](https://github.com/DHowett/preferenceloader/blob/master/LICENSE)
 
 ### KennyTM
-* GraphicsServices, IOSurface, substrate2.h headers: [BSD 3 Clause](http://opensource.org/licenses/BSD-3-Clause)
+* GraphicsServices, IOSurface, substrate2.h: [BSD 3 Clause](http://opensource.org/licenses/BSD-3-Clause)
 
 ### OpenSSL
 * OpenSSL: [OpenSSL](https://www.openssl.org/source/license.html)
@@ -29,14 +29,11 @@ There is no particular license on this repo. Files in this repo come from many s
 * AppList: [GNU LGPL v2.1](https://github.com/rpetrich/AppList/blob/master/LICENSE)
 * CaptainHook (submodule): [MIT License](http://mit-license.org/)
 * libactivator (submodule): [GNU LGPL v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* LightMessaging (submodule): ?
-* RocketBootstrap (submodule): ?
+* LightMessaging (submodule): Unknown
+* RocketBootstrap: Unknown
 
 ### SaurikIT
-* Cydia Substrate: Licensing is rather strange and unclear here.
-    * As of approximately version 0.9.3997, Cydia Substrate became closed source. It was previously GNU GPL v3.
-    * The header provided here is taken from Cydia Substrate 0.9.4001 (February 2013) and has a comment that indicates that it is licensed under [GNU LGPL v3](substrate.h).
-    * Cydia Substrate 0.9.5000 (December 2013) changed the license comment to GNU GPL v3. It is unclear why this has changed.
+* substrate: [3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)
 
 ### Other headers
 Headers that aren't from elsewhere are released into the Public Domain.
